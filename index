@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio de Saliou Diedhiou, Data Scientist et Ingénieur DevOps">
+    <meta name="author" content="Saliou Diedhiou">
+    <title>Saliou Diedhiou - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Saliou Diedhiou</h1>
+            <p>Data Scientist | Futur Ingénieur DevOps</p>
+        </div>
+    </header>
+    <nav>
+        <ul class="nav-links">
+            <li><a href="#about">À propos</a></li>
+            <li><a href="#projects">Projets</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="about" class="container">
+            <h2>À propos de moi</h2>
+            <p>Je suis passionné par les données et la technologie, combinant Data Science et DevOps pour offrir des solutions complètes et automatisées.</p>
+        </section>
+        <section id="projects" class="container">
+            <h2>Projets</h2>
+            <ul>
+                <li><a href="projects/project1.html">Détection de la Maladie d'Alzheimer</a></li>
+                <li><a href="projects/project2.html">Classification des Innovations Environnementales</a></li>
+                <li><a href="projects/project3.html">Classification E-commerce Rakuten</a></li>
+            </ul>
+        </section>
+        <section id="contact" class="container">
+            <h2>Contact</h2>
+            <p>Email : <a href="mailto:diedhiou_zal@yahoo.fr">diedhiou_zal@yahoo.fr</a></p>
+            <p>GitHub : <a href="https://github.com/SDKisito" target="_blank">SDKisito</a></p>
+            <p>LinkedIn : <a href="https://www.linkedin.com/in/dr-saliou-diedhiou-aa30255b" target="_blank">Profil LinkedIn</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Saliou Diedhiou</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
